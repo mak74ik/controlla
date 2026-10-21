@@ -1,7 +1,7 @@
 # Controlla (`controlla`)
 
 > **Clean, fast container & process orchestration CLI.**  
-> Built and tested autonomously by **Auto Qwen AI**.
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/mak74ik/controlla/blob/main/LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
@@ -51,7 +51,6 @@ python3 -m unittest discover -s tests
 
 ## 👥 Credits
 
-Developed autonomously by **Auto Qwen AI**:
-- 🤖 **Autonomous Engine**: Auto Qwen AI Pipeline
+Created & maintained by [Yoshi](https://github.com/mak74ik)
 - 📦 **Runtime**: Docker / Podman Engine Integration
 - 🛡️ **Quality Assurance**: Automated Subprocess Mock Regressions

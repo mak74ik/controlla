@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Controlla: Clean, fast container & process orchestration CLI.
-Built autonomously by Auto Qwen AI.
+Built autonomously by Yoshi.
 """
 
 import argparse
